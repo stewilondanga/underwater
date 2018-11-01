@@ -43,7 +43,7 @@
   color: rgba(255, 255, 255, 0.9);
 }
 
-/*.text {
+.text {
   max-width: 66.6%;
   margin-top: 4vw;
   margin-bottom: 9vw;
@@ -54,7 +54,7 @@
   line-height: 1.45;
 }
 
-.arrow svg,
+/*.arrow svg,
 .ticket svg {
   cursor: pointer;
   width: 6.3vw;
