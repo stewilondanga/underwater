@@ -33,13 +33,12 @@
   letter-spacing: 0.15vw;
 }
 
-/*
 .subtitle {
   mix-blend-mode: overlay;
   letter-spacing: 0.4vw;
 }
 
-.text,
+/*.text,
 .bottom {
   padding: 0 0.75vw;
   color: rgba(255, 255, 255, 0.9);
