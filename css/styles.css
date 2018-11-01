@@ -70,12 +70,11 @@
   align-items: center;
 }
 
-/*.date,
-.ticket {
+.date, .ticket {
   flex: 1;
 }
 
-.ticket {
+/*.ticket {
   text-align: right;
 }
 
