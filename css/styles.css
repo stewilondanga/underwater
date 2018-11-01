@@ -65,12 +65,12 @@
   letter-spacing: 0.25vw;
 }
 
-/*.bottom {
+.bottom {
   display: flex;
   align-items: center;
 }
 
-.date,
+/*.date,
 .ticket {
   flex: 1;
 }
