@@ -25,7 +25,6 @@
   height: 1.5em;
 }
 
-/*
 .title {
   font-size: 11.5vw;
   font-weight: bold;
@@ -34,6 +33,7 @@
   letter-spacing: 0.15vw;
 }
 
+/*
 .subtitle {
   mix-blend-mode: overlay;
   letter-spacing: 0.4vw;
