@@ -59,13 +59,13 @@
   width: 6.3vw;
 }
 
-/*.date {
+.date {
   text-transform: uppercase;
   font-size: 1.5vw;
   letter-spacing: 0.25vw;
 }
 
-.bottom {
+/*.bottom {
   display: flex;
   align-items: center;
 }
